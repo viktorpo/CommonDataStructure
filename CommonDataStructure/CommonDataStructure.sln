@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonDataStructure", "CommonDataStructure\CommonDataStructure.csproj", "{7F3DE4E0-8829-4F7F-9616-817A1B0AFEB4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonDataStructure.ConsoleApp", "CommonDataStructure\CommonDataStructure.ConsoleApp.csproj", "{7F3DE4E0-8829-4F7F-9616-817A1B0AFEB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonDataStructure.Data", "CommonDataStructure.Data\CommonDataStructure.Data.csproj", "{1A431812-24D0-469C-808B-69894F25F781}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7F3DE4E0-8829-4F7F-9616-817A1B0AFEB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F3DE4E0-8829-4F7F-9616-817A1B0AFEB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F3DE4E0-8829-4F7F-9616-817A1B0AFEB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A431812-24D0-469C-808B-69894F25F781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A431812-24D0-469C-808B-69894F25F781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A431812-24D0-469C-808B-69894F25F781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A431812-24D0-469C-808B-69894F25F781}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
